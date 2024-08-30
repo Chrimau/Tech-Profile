@@ -9,14 +9,13 @@ Four web pages, each a piece of the puzzle:
 1. **Home Page**: A professional background description highlighting my skills, experiences, and aspirations in cloud engineering.
 2. **Application Page**: Modeled after the AltSchool application page, demonstrating my ability to recreate real-world web interfaces.
 3. **Courses Page**: A learning roadmap, AltSchool style
-5. **Media Page**: Where my personalities collide - in pictures, tunes, and videos, illustrating my ability to embed and organize multimedia content.
+5. **Media Page**: Where my personalities collide - in pictures, tunes, and videos, illustrating my ability to embed and organize multimedia content.Includes responsive design for better mobile compatibility
 
 
 ## 🛠️ The Tools
 
 - HTML5: The bones
 - CSS3: The looks
-- JavaScript: The brains
 
 ## 💡 The Spark
 
@@ -31,7 +30,7 @@ To view this project:
 ## 🔮 Future Improvements
 
 As I continue my journey at AltSchool, I plan to enhance this project with:
-- Responsive design for better mobile compatibility
+- Javascript- the brains
 - Improved accessibility features
 - Integration with back-end services as I progress in my cloud engineering studies. The cloud is the limit!
 
@@ -41,10 +40,11 @@ Massive thanks to AltSchool Africa for igniting this journey. Let's code the fut
 
 ## 🤝 Let's Connect
 
-Ginika Nwokeji
-https://www.linkedin.com/in/ginika-nwokeji-443616146/
-ginikanwokeji@gmail.com
+Chrimau  
+https://www.linkedin.com/in/ginika-nwokeji-443616146/  
+ginikanwokeji@gmail.com  
+https://github.com/Chrimau/
 
 ## Star this repo and watch the magic unfold! ✨
 
-© 2023 [Your Name]. All Rights Reserved.
+© 2023 Chrimau. All Rights Reserved.
