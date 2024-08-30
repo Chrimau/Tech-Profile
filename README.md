@@ -22,13 +22,11 @@ Four web pages, each a piece of the puzzle:
 
 This project is not just about code—it is about transformation. From cloud novice to front-end explorer, watch this space evolve as I soar through AltSchool's program. It represents my progress in front-end development during the first semester at AltSchool Africa. While my main focus is Cloud Engineering, these front-end skills provide a crucial foundation for implementing web technologies and user interface design.
 
-## 👀 How to View
+## How to View
 
-Curious? Here's how to dive in:
-```bash
-git clone https://github.com/yourusername/Tech-Profile.git
-cd Tech-Profile
-Open the `index.html` file in your web browser
+To view this project:
+1. Clone this repository
+2. Open the `index.html` file in your web browser
 
 ## 🔮 Future Improvements
 
@@ -37,7 +35,7 @@ As I continue my journey at AltSchool, I plan to enhance this project with:
 - Improved accessibility features
 - Integration with back-end services as I progress in my cloud engineering studies. The cloud is the limit!
 
-## 🙌 The Shoutout
+## 🙌 The Shoutout 
 
 Massive thanks to AltSchool Africa for igniting this journey. Let's code the future!
 
